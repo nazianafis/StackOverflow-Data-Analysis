@@ -23,6 +23,7 @@ For this project, I used _Stack Overflow Annual Developer Survey 2020_ data in o
 3. Do developers from Non IT backgrounds think differently about the importance of having a formal education, such as a university degree in Computer Science, for their career?
 
 The complete set of files is publicly available and can be downloaded from [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_ [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
+(https://user-images.githubusercontent.com/81024656/121772399-ce325180-cb92-11eb-9632-51560dbcf46f.png)
 
 
 ## File Descriptions <a name="files"></a>
@@ -33,13 +34,14 @@ The complete set of files is publicly available and can be downloaded from [here
 ## Results<a name="results"></a>
 
 An in-depth report of my analysis can be found in my blog post [here](https://nazianafis.medium.com/best-country-to-work-in-2020-15a790b00904).
-Nevertheless, here is a quick summary of analysis:
+Nevertheless, here is a quick summary of the analysis:
 1. I measured job satisfaction levels for each country and found that Sweden topped the charts. United States stood second and Netherlands third.
-(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+(https://user-images.githubusercontent.com/81024656/121772391-bc50ae80-cb92-11eb-87f8-fb129e77b0ba.png)
 2. Then, I looked at undergraduate majors and found that developers from ‘Non IT related’ backgrounds had better job satisfaction.
-(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+(https://user-images.githubusercontent.com/81024656/121772393-c2468f80-cb92-11eb-8787-06479fbd1453.png)
+(https://user-images.githubusercontent.com/81024656/121772398-c83c7080-cb92-11eb-8b0e-d3bab1c78294.png)
 3. At last, I found that developers from ‘Non IT related’ fields were also the ones who believed that having a formal education, such as a degree in Computer Science, was not as important for their career. This is also backed up by the fact that despite not having a background in IT, these respondents are not only working as developers but also have higher job satisfaction in their work.
-(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+(https://user-images.githubusercontent.com/81024656/121772395-c4a8e980-cb92-11eb-994a-b17d94511fe7.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
