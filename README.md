@@ -41,7 +41,6 @@ Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model th
 
 * Jupyter notebook: The main showcase of work related to the above questions.
 * CSV file: Dataset downloaded from the Stack Overflow website.
-* 
 
 ## Results<a name="results"></a>
 
