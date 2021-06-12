@@ -36,7 +36,7 @@ The complete set of files is publicly available and can be downloaded from [here
 An in-depth report of my analysis can be found in my blog post [here](https://nazianafis.medium.com/best-country-to-work-in-2020-15a790b00904).
 Nevertheless, here is a quick summary of the analysis:
 1. I measured job satisfaction levels for each country and found that Sweden topped the charts. United States stood second and Netherlands third.
-!(https://user-images.githubusercontent.com/81024656/121772391-bc50ae80-cb92-11eb-87f8-fb129e77b0ba.png)
+!(graph-1.png)
 
 2. Then, I looked at undergraduate majors and found that developers from ‘Non IT related’ backgrounds had better job satisfaction.
 !(https://user-images.githubusercontent.com/81024656/121772393-c2468f80-cb92-11eb-8787-06479fbd1453.png)
