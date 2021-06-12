@@ -23,7 +23,7 @@ For this project, I used _Stack Overflow Annual Developer Survey 2020_ data in o
 3. Do developers from Non IT backgrounds think differently about the importance of having a formal education, such as a university degree in Computer Science, for their career?
 
 The complete set of files is publicly available and can be downloaded from [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_ [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
-!(https://user-images.githubusercontent.com/81024656/121772399-ce325180-cb92-11eb-9632-51560dbcf46f.png)
+!(121772399-ce325180-cb92-11eb-9632-51560dbcf46f.png)
 
 
 ## File Descriptions <a name="files"></a>
