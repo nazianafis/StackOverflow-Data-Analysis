@@ -12,7 +12,7 @@ Every year since 2011, Stack Overflow has been conducting a survey to understand
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code can be run in Google Colab as an Interactive Python Notebook (ipynb). No additional installation is required.
 
 ## Project Motivation<a name="motivation"></a>
 
