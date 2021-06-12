@@ -1,7 +1,6 @@
 # StackOverflow-Data-Analysis
 Every year since 2011, Stack Overflow has been conducting a survey to understand its user base in particular and the global IT scenario in general. The 2020 results have recently been released. With some basic data exploration tactics on answers given by survey respondents, I was able to unveil interesting insights.
 
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -26,11 +25,20 @@ The complete set of files is publicly available and can be downloaded from the S
 
 ![stack overflow image](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/so-1%20(2).png)
 
+**What is CRISP-DM?**
+1. Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model that describes the data science life cycle.
+2. Business understanding — What does the business need?
+3. Data Understanding — What data do we have / need? Is it clean?
+4. Data Preparation — How do we organize the data for modeling?
+5. Modeling — What modeling techniques should we apply?
+6. Evaluation— Which model best meets the business objectives?
+7. Deployment— How do stakeholders access the results?
 
 ## File Description <a name="files"></a>
 
-* One Jupyter notebook: The main showcase of work related to the above questions.
-* One CSV file: Dataset downloaded from the Stack Overflow website.
+* Jupyter notebook: The main showcase of work related to the above questions.
+* CSV file: Dataset downloaded from the Stack Overflow website.
+* 
 
 ## Results<a name="results"></a>
 
