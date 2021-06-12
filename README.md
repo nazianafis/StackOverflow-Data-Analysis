@@ -27,7 +27,7 @@ The complete set of files is publicly available and can be downloaded from [here
 ![stack overflow image](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/so-1%20(2).png)
 
 
-## File Descriptions <a name="files"></a>
+## File Description <a name="files"></a>
 
 * One Jupyter notebook: The main showcase of work related to the above questions.
 * One CSV file: Dataset downloaded from the Stack Overflow website.
@@ -44,11 +44,11 @@ Nevertheless, here is a quick summary of the analysis:
 
 ![second answer 1](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-2.png)
 
-![second answer 2](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-3.png)
+![second answer 2](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-4.png)
 
 ###### 3. At last, I found that developers from ‘Non IT related’ fields were also the ones who believed that having a formal education, such as a degree in Computer Science, was not as important for their career. This is also backed up by the fact that despite not having a background in IT, these respondents are not only working as developers but also have higher job satisfaction in their work.
 
-![third answer](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-4.png)
+![third answer](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-3.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
