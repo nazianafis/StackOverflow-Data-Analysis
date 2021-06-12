@@ -36,14 +36,14 @@ The complete set of files is publicly available and can be downloaded from [here
 An in-depth report of my analysis can be found in my blog post [here](https://nazianafis.medium.com/best-country-to-work-in-2020-15a790b00904).
 Nevertheless, here is a quick summary of the analysis:
 1. I measured job satisfaction levels for each country and found that Sweden topped the charts. United States stood second and Netherlands third.
-!(graph-1.png)
+!(https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-1.png)
 
 2. Then, I looked at undergraduate majors and found that developers from ‘Non IT related’ backgrounds had better job satisfaction.
-!(https://user-images.githubusercontent.com/81024656/121772393-c2468f80-cb92-11eb-8787-06479fbd1453.png)
-!(https://user-images.githubusercontent.com/81024656/121772398-c83c7080-cb92-11eb-8b0e-d3bab1c78294.png)
+!(https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-2.png)
+!(https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-3.png)
 
 3. At last, I found that developers from ‘Non IT related’ fields were also the ones who believed that having a formal education, such as a degree in Computer Science, was not as important for their career. This is also backed up by the fact that despite not having a background in IT, these respondents are not only working as developers but also have higher job satisfaction in their work.
-!(https://user-images.githubusercontent.com/81024656/121772395-c4a8e980-cb92-11eb-994a-b17d94511fe7.png)
+!(https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/graph-4.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
