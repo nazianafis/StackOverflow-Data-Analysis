@@ -25,7 +25,7 @@ The complete set of files is publicly available and can be downloaded from the S
 
 ![stack overflow image](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/so-1%20(2).png)
 
-**What is CRISP-DM?**
+#### What is CRISP-DM?
 Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model that describes the data science life cycle.
 
 1. Business understanding — What does the business need?
@@ -35,7 +35,7 @@ Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model th
 5. Evaluation— Which model best meets the business objectives?
 6. Deployment— How do stakeholders access the results?
 
-![crisp-dm](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/crisp-dm.png)
+    ![crisp-dm](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/crisp-dm.png)
 
 ## File Description <a name="files"></a>
 
