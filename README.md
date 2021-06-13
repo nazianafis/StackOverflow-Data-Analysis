@@ -25,26 +25,14 @@ The complete set of files is publicly available and can be downloaded from the S
 
 ![stack overflow image](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/so-1%20(2).png)
 
-#### What is CRISP-DM?
-Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model that describes the data science life cycle.
-
-1. Business understanding — What does the business need?
-2. Data Understanding — What data do we have / need? Is it clean?
-3. Data Preparation — How do we organize the data for modeling?
-4. Modeling — What modeling techniques should we apply?
-5. Evaluation— Which model best meets the business objectives?
-6. Deployment— How do stakeholders access the results?
-
-    ![crisp-dm](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/crisp-dm.png)
-
 ## File Description <a name="files"></a>
 
-* Jupyter notebook: The main showcase of work related to the above questions.
-* CSV file: Dataset downloaded from the Stack Overflow website.
+* StackOverflow_Survey_Analysis.ipynb - The main showcase of work related to the above questions.
+* survey_results_public.csv - Public dataset downloaded from the Stack Overflow website.
 
 ## Results<a name="results"></a>
 
-Here is a quick summary of the analysis: (An in-depth report can be found on my Medium blog [here](https://nazianafis.medium.com/best-country-to-work-in-2020-15a790b00904).)
+Here is a quick summary of the analysis: (An in depth report can be found on my Medium blog [here](https://nazianafis.medium.com/best-country-to-work-in-2020-15a790b00904).)
 ##### 1. I measured job satisfaction levels for each country and found that Sweden topped the charts. United States stood second and Netherlands third.
 
 ![first answer](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/graph-1.png)
@@ -62,4 +50,4 @@ Here is a quick summary of the analysis: (An in-depth report can be found on my 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The dataset Stack Overflow Developer Survey Results 2020 is made available by [Stack Overflow](https://insights.stackoverflow.com/survey) under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
-Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/)
+Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
