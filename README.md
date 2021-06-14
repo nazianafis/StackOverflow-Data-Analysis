@@ -1,7 +1,8 @@
 # StackOverflow-Data-Analysis
-Every year since 2011, Stack Overflow has been conducting a survey to understand its user base in particular and the global IT scenario in general. The 2020 results have recently been released. With some basic data exploration techniques on answers given by survey respondents, I was able to unveil interesting insights.
 
 ---
+
+Every year since 2011, Stack Overflow has been conducting a survey to understand its user base in particular and the global IT scenario in general. The 2020 results have recently been released. With some basic data exploration techniques on answers given by survey respondents, I was able to unveil interesting insights.
 
 ### Table of Contents
 
