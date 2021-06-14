@@ -50,7 +50,7 @@ Here is a quick summary of the analysis: (An in depth report can be found on my 
 
 ![third answer](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/graph-3.png)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing<a name="licensing"></a>
 
 The dataset Stack Overflow Developer Survey Results 2020 is made available by [Stack Overflow](https://insights.stackoverflow.com/survey) under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
 Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
