@@ -5,7 +5,7 @@
 1. [Overview](#overview)
 2. [Getting Started](#getting-started)
     1. [Dependencies](#dependencies)
-    2. [Installation](#installion)
+    2. [Installation](#installation)
 3. [Project Motivation](#project-motivation)
 4. [Results](#results)
 3. [Authors](#author)
@@ -23,9 +23,9 @@ Every year since 2011, Stack Overflow has been conducting a survey to understand
 
 ### Installation <a name="installation"></a>
 
-* Datasets: The complete set of files is publicly available and can be downloaded from the Stack Overflow site [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_) in my Github repo [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
+* Datasets: The complete set of files is publicly available and can be downloaded from the Stack Overflow site [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_) in my Github repository [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
 * Others: The code can be run in [Google Colab](https://colab.research.google.com/drive/1Xqh_Obd0xeg8yzp6U-KrVHLqiAan-Hqr) as an Interactive Python Notebook (ipynb). No additional installation is required.
-- Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
+    - Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
 
 ### Project Motivation <a name="project-motivation"></a>
 
