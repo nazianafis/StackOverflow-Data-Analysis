@@ -8,7 +8,7 @@
     2. [Installation](#installation)
 3. [Project Motivation](#project-motivation)
 4. [Results](#results)
-3. [Authors](#author)
+3. [Author](#author)
 4. [Licensing](#licensing)
 
 ## Overview <a name="overview"></a>
