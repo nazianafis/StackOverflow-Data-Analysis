@@ -1,20 +1,33 @@
 # StackOverflow-Data-Analysis
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Getting Started](#getting-started)
+    1. [Dependencies](#dependencies)
+    2. [Installation](#installion)
+3. [Project Motivation](#project-motivation)
+4. [Results](#results)
+3. [Authors](#author)
+4. [Licensing](#licensing)
+
+## Overview <a name="overview"></a>
 Every year since 2011, Stack Overflow has been conducting a survey to understand its user base in particular and the global IT scenario in general. The 2020 results have recently been released. With some basic data exploration techniques on answers given by survey respondents, I was able to unveil interesting insights.
 
-### Table of Contents
+## Getting Started <a name="getting-started"></a>
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+### Dependencies <a name="dependencies"></a>
+* Python 3.*
+* Libraries: Pandas, Seaborn, Matplotlib
+* Google Colaboratory
 
-## Installation <a name="installation"></a>
+### Installation <a name="installation"></a>
 
-The code can be run in [Google Colab](https://colab.research.google.com/drive/1Xqh_Obd0xeg8yzp6U-KrVHLqiAan-Hqr) as an Interactive Python Notebook (ipynb). No additional installation is required.
+* Datasets: The complete set of files is publicly available and can be downloaded from the Stack Overflow site [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_) in my Github repo [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
+* Others: The code can be run in [Google Colab](https://colab.research.google.com/drive/1Xqh_Obd0xeg8yzp6U-KrVHLqiAan-Hqr) as an Interactive Python Notebook (ipynb). No additional installation is required.
+- Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
 
-## Project Motivation<a name="motivation"></a>
+### Project Motivation <a name="project-motivation"></a>
 
 For this project, I used _Stack Overflow Annual Developer Survey 2020_ data in order to answer the following three questions:
 
@@ -22,14 +35,7 @@ For this project, I used _Stack Overflow Annual Developer Survey 2020_ data in o
 2. Is there a difference in job satisfaction between developers who had an IT related undergraduate major and those who didn’t?
 3. Do developers from Non IT backgrounds think differently about the importance of having a formal education, such as a university degree in Computer Science, for their career?
 
-The complete set of files is publicly available and can be downloaded from the Stack Overflow site [here](https://insights.stackoverflow.com/survey).  Alternatively, you can find the main CSV file (titled _survey_results_public.csv_) in my Github repo [here](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/survey_results_public.csv).
-
 ![stack overflow image](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/so-1%20(2).png)
-
-## File Description <a name="files"></a>
-
-* StackOverflow_Survey_Analysis.ipynb - The main showcase of work related to the above questions.
-* survey_results_public.csv - Public dataset downloaded from the Stack Overflow website.
 
 ## Results<a name="results"></a>
 
@@ -48,7 +54,10 @@ Here is a quick summary of the analysis: (An in depth report can be found on my 
 
 ![third answer](https://github.com/nazianafis/StackOverflow-Data-Analysis/blob/main/images/graph-3.png)
 
+## Author<a name="author"></a>
+* [Nazia N.](https://github.com/nazianafis)
+
 ## Licensing<a name="licensing"></a>
 
-The dataset Stack Overflow Developer Survey Results 2020 is made available by [Stack Overflow](https://insights.stackoverflow.com/survey) under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
-Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
+* The dataset Stack Overflow Developer Survey Results 2020 is made available by [Stack Overflow](https://insights.stackoverflow.com/survey) under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
+* Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
